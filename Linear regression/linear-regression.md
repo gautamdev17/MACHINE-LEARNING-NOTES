@@ -12,7 +12,7 @@ y = wx + b
 ## Objective
 Minimize **Mean Squared Error (MSE)** between predicted and true values.
 
-J(w,b) = \frac{1}{m}\sum_{i=1}^{m} \big( w x_i + b - y_i \big)^2
+J(w,b) = (1 / 2m) * Σ (w x_i + b − y_i)²
 ---
 
 ## How it works
