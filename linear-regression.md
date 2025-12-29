@@ -57,4 +57,3 @@ J(w,b) = \frac{1}{m}\sum (wx_i + b - y_i)^2
 ## Files
 - `linear_regression_from_scratch.ipynb`
 - `linear_regression_sklearn.ipynb`
-- `notes.md`
