@@ -13,9 +13,8 @@ y = wx + b
 Minimize **Mean Squared Error (MSE)** between predicted and true values.
 
 \[
-J(w,b) = \frac{1}{m}\sum (wx_i + b - y_i)^2
+J(w,b) = \frac{1}{2m}\sum_{i=1}^{m} (w x_i + b - y_i)^2
 \]
-
 ---
 
 ## How it works
